@@ -1,4 +1,4 @@
-# 🛡️ Project Nexus — SmartGuard Security System
+# 🛡️ SmartGuard Security System
 
 A Wi-Fi-enabled safety and security alarm prototype built using an **ESP8266 NodeMCU**.
 
@@ -6,7 +6,7 @@ The system uses an IR sensor to detect nearby activity and automatically activat
 
 ## 🚀 Current Version
 
-**Nexus v1 — SmartGuard Security System**
+**SmartGuard Security System**
 
 ### ✨ Features
 
@@ -96,16 +96,3 @@ The dashboard displays the current security condition of the system.
 - **Interface:** HTML + CSS
 - **Sensor:** IR detection module
 
-## 📂 Project Structure
-
-```text
-Project-Nexus/
-│
-├── Nexus_Security_Alarm/
-│   └── Nexus_Security_Alarm.ino
-│
-├── images/
-│   ├── circuit-diagram.png
-│   └── smartguard-dashboard.jpg
-│
-└── README.md
