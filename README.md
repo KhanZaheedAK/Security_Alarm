@@ -104,3 +104,13 @@ The dashboard displays the current security condition of the system.
 - **Interface:** HTML + CSS
 - **Sensor:** IR detection module
 
+## 👨‍💻 Author
+
+**Zaheed Khan**
+
+### 🛡️ Project Name
+
+**SmartGuard Security System**
+
+---
+
