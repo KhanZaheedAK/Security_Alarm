@@ -96,7 +96,7 @@ The phone connects directly to the ESP8266 and opens the SmartGuard dashboard at
 
 When the area is clear, the system remains in protected mode.
 
-![SmartGuard Protected Mode](images/smartguard-protected.png)
+![SmartGuard Protected Mode](Alarm_ON.png)
 
 **System Status:** PROTECTED  
 **Presence:** NO ACTIVITY  
@@ -107,7 +107,7 @@ When the area is clear, the system remains in protected mode.
 
 When the IR sensor detects activity, the warning LED and buzzer are activated.
 
-![SmartGuard Alert Mode](images/smartguard-alert.png)
+![SmartGuard Alert Mode](Alarm_OFF.png)
 
 **System Status:** ALERT  
 **Presence:** ACTIVITY DETECTED  
