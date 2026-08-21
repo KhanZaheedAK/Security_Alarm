@@ -82,7 +82,6 @@ The circuit diagram below shows the complete hardware connections used in the Sm
 
 ![Project Circuit Diagram](Security_Alarm_Circuit.png)
 
-
 ## 📱 SmartGuard Dashboard
 
 The ESP8266 creates its own Wi-Fi network:
@@ -93,7 +92,27 @@ The phone connects directly to the ESP8266 and opens the SmartGuard dashboard at
 
 **192.168.4.1**
 
-The dashboard displays the current security condition of the system.
+### 🟢 Protected Mode — No Activity Detected
+
+When the area is clear, the system remains in protected mode.
+
+![SmartGuard Protected Mode](images/smartguard-protected.png)
+
+**System Status:** PROTECTED  
+**Presence:** NO ACTIVITY  
+**Warning Light:** OFF  
+**Alarm:** STANDBY
+
+### 🔴 Alert Mode — Activity Detected
+
+When the IR sensor detects activity, the warning LED and buzzer are activated.
+
+![SmartGuard Alert Mode](images/smartguard-alert.png)
+
+**System Status:** ALERT  
+**Presence:** ACTIVITY DETECTED  
+**Warning Light:** ON  
+**Alarm:** ACTIVE
 
 ## 🎥 Project Demonstration
 
