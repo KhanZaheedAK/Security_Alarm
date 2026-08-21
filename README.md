@@ -95,6 +95,23 @@ The phone connects directly to the ESP8266 and opens the SmartGuard dashboard at
 
 The dashboard displays the current security condition of the system.
 
+## 🎥 Project Demonstration
+
+The demonstration video shows the SmartGuard security system working in real time.
+
+### Demonstration includes:
+
+- ESP8266 system startup
+- Phone connection to NEXUS
+- SmartGuard dashboard
+- IR presence detection
+- LED activation
+- Buzzer activation
+- System returning to protected mode
+
+**🎬 Project Demonstration:**  
+[Watch the SmartGuard Security System](https://drive.google.com/file/d/1casWtIVbWK1bkiasmlR8LyNJOkoo86L4/view?usp=sharing)
+
 ## 🧠 Technology
 
 - **Microcontroller:** ESP8266 NodeMCU
