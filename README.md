@@ -75,6 +75,14 @@ The dashboard displays:
 | Buzzer + | D5 |
 | Buzzer − | GND |
 
+
+## 🔧 Circuit Diagram
+
+The circuit diagram below shows the complete hardware connections used in the SmartGuard security system.
+
+![Project Circuit Diagram](D\ZAHEED\Robotics Projects\Birthday_project)
+
+
 ## 📱 SmartGuard Dashboard
 
 The ESP8266 creates its own Wi-Fi network:
