@@ -80,7 +80,7 @@ The dashboard displays:
 
 The circuit diagram below shows the complete hardware connections used in the SmartGuard security system.
 
-![Project Circuit Diagram](D\ZAHEED\Robotics Projects\Birthday_project)
+![Project Circuit Diagram](Birthday_Circuit.png)
 
 
 ## 📱 SmartGuard Dashboard
